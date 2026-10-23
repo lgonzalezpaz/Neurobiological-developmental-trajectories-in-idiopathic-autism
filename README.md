@@ -2,7 +2,7 @@
 
 Code and derived data for the manuscript
 
-> **Where does the loop begin? A calibrated pruning–splicing model and in-silico trial specify the longitudinal design needed to stratify idiopathic autism.** [AUTHOR], [YEAR]. [JOURNAL / preprint DOI]
+> **Where does the loop begin? A calibrated pruning–splicing model and in-silico trial specify the longitudinal design needed to stratify idiopathic autism.** 
 
 The repository reproduces every number, table and figure in the manuscript from public raw data, on a standard laptop (2 cores, 8 GB RAM, ~1.5–2 h end to end).
 
