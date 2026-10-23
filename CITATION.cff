@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Pruning–splicing reciprocity (PSR) model of idiopathic autism: code and derived data"
+version: 1.0.0
+date-released: 2026-10-20
+license: MIT
+authors:
+  - family-names: "[SURNAME]"
+    given-names: "[GIVEN NAMES]"
+    email: lgonzalezpaz@gmail.com
+    affiliation: "[AFFILIATION]"
+repository-code: "[GITHUB URL]"
+doi: "10.5281/zenodo.XXXXXXX"
+keywords: [autism, synaptic pruning, alternative splicing, CPEB4, SRRM4, microglia, RI-CLPM, approximate Bayesian computation]
+preferred-citation:
+  type: article
+  title: "Where does the loop begin? A calibrated pruning–splicing model and in-silico trial specify the longitudinal design needed to stratify idiopathic autism"
+  authors:
+    - family-names: "[SURNAME]"
+      given-names: "[GIVEN NAMES]"
+  year: 2026
+  journal: "[JOURNAL]"

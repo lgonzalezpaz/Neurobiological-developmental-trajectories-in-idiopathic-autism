@@ -1,0 +1,9 @@
+# Exact versions used to produce the published results (Python 3.13.16)
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5
+matplotlib==3.11.2
+scikit-learn==1.9.1
+statsmodels==0.15.0
+openpyxl==3.1.5
+SALib==1.6.0
