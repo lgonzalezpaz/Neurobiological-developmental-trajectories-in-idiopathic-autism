@@ -1,6 +1,6 @@
 # Pruning–splicing reciprocity (PSR) model of idiopathic autism
 
-Code and derived data for the manuscript
+Code and derived data for the manuscript 
 
 > **Where does the loop begin? A calibrated pruning–splicing model and in-silico trial specify the longitudinal design needed to stratify idiopathic autism.** 
 
