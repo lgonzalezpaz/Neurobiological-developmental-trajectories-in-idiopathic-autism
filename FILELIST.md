@@ -91,4 +91,4 @@
 | `docs/refs_verified.json` | 144 kB | Verified reference metadata (PubMed/Crossref) |
 
 Raw third-party data (`data/raw/`, ~290 MB) are not redistributed; run `src/00_download_data.sh`.
-Suggested release tag: `v1.0.0`; archive the tagged release on Zenodo via the GitHub integration to mint the DOI, then replace `10.5281/zenodo.XXXXXXX` in README.md, CITATION.cff and the manuscript.
+Suggested release tag: `v1.0.0`; archive the tagged release on Zenodo via the GitHub integration to mint the DOI, then replace `10.5281/zenodo.<record id>` in README.md, CITATION.cff and the manuscript.

@@ -1,8 +1,9 @@
-# Pruning–splicing reciprocity (PSR) model of idiopathic autism
+# Neurobiological developmental trajectories in idiopathic autism
 
-Code and derived data for the manuscript 
+Code and derived data for the manuscript
 
-> **Where does the loop begin? A calibrated pruning–splicing model and in-silico trial specify the longitudinal design needed to stratify idiopathic autism.** 
+> **Neurobiological developmental trajectories in idiopathic autism: a calibrated pruning–splicing model and multicentre in-silico trial define the design for stratification and individual prediction.**
+> L. González-Paz, 2026. (Manuscript in preparation.)
 
 The repository reproduces every number, table and figure in the manuscript from public raw data, on a standard laptop (2 cores, 8 GB RAM, ~1.5–2 h end to end).
 
@@ -10,7 +11,7 @@ The repository reproduces every number, table and figure in the manuscript from 
 
 | Step | Script | Output | Manuscript |
 |---|---|---|---|
-| 0 | `src/00_download_data.sh` | public raw data in `data/raw/` | Table 2 |
+| 0 | `src/00_download_data.sh` | public raw data in `data/raw/` | Table 1 |
 | 1 | `src/01_brainspan_trajectories.py` | normative module trajectories, timing statistics | Fig. 2 |
 | 2 | `src/02_postmortem_cohorts.py` | harmonized module scores for GSE28521, GSE28475, GSE102741 | — |
 | 3 | `src/03_postmortem_stats.py` | random-effects meta-analysis, coupling, dispersion, mixture, age interaction | Fig. 3a–d, Suppl. Table 1 |
@@ -28,7 +29,8 @@ Core modules: `src/model.py` (PSR model, vectorized RK4 and stochastic integrato
 ## Quick start
 
 ```bash
-git clone [GITHUB URL] psr-autism && cd psr-autism
+git clone https://github.com/lgonzalezpaz/Neurobiological-developmental-trajectories-in-idiopathic-autism.git
+cd Neurobiological-developmental-trajectories-in-idiopathic-autism
 conda env create -f environment.yml && conda activate psr-autism   # or: pip install -r requirements.txt
 bash run_all.sh
 ```
