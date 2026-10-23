@@ -1,0 +1,23 @@
+{
+  "title": "Neurobiological developmental trajectories in idiopathic autism: a calibrated pruning-splicing model and multicentre in-silico trial (code and derived data)",
+  "upload_type": "software",
+  "version": "1.0.4",
+  "access_right": "open",
+  "license": "mit",
+  "creators": [
+    {"name": "Gonzalez-Paz, L."}
+  ],
+  "description": "Code, derived data, posterior samples, simulation outputs, figures and tables reproducing the manuscript 'Neurobiological developmental trajectories in idiopathic autism: a calibrated pruning-splicing model and multicentre in-silico trial define the design for stratification and individual prediction'. The repository contains a minimal biophysical model of the pruning-splicing loop calibrated by approximate Bayesian computation, validation against the BrainSpan atlas and three independent GEO post-mortem autism cohorts, a SFARI genetic-loading analysis, and in-silico longitudinal and multicentre trials including a maximum-likelihood random-intercept cross-lagged panel model. A single script reproduces every number, table and figure from public raw data.",
+  "keywords": [
+    "autism",
+    "developmental trajectories",
+    "synaptic pruning",
+    "alternative splicing",
+    "CPEB4",
+    "SRRM4",
+    "microglia",
+    "approximate Bayesian computation",
+    "random-intercept cross-lagged panel model",
+    "study design"
+  ]
+}

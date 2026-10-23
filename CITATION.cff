@@ -1,22 +1,23 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite it as below."
-title: "Pruning–splicing reciprocity (PSR) model of idiopathic autism: code and derived data"
-version: 1.0.0
-date-released: 2026-10-20
+title: "Neurobiological developmental trajectories in idiopathic autism: a calibrated pruning-splicing model and multicentre in-silico trial (code and derived data)"
+version: 1.0.4
+date-released: 2026-10-23
 license: MIT
+type: software
 authors:
-  - family-names: "[SURNAME]"
-    given-names: "[GIVEN NAMES]"
+  - family-names: "González-Paz"
+    given-names: "L."
     email: lgonzalezpaz@gmail.com
-    affiliation: "[AFFILIATION]"
-repository-code: "[GITHUB URL]"
-doi: "10.5281/zenodo.XXXXXXX"
-keywords: [autism, synaptic pruning, alternative splicing, CPEB4, SRRM4, microglia, RI-CLPM, approximate Bayesian computation]
-preferred-citation:
-  type: article
-  title: "Where does the loop begin? A calibrated pruning–splicing model and in-silico trial specify the longitudinal design needed to stratify idiopathic autism"
-  authors:
-    - family-names: "[SURNAME]"
-      given-names: "[GIVEN NAMES]"
-  year: 2026
-  journal: "[JOURNAL]"
+repository-code: "https://github.com/lgonzalezpaz/Neurobiological-developmental-trajectories-in-idiopathic-autism"
+keywords:
+  - autism
+  - developmental trajectories
+  - synaptic pruning
+  - alternative splicing
+  - CPEB4
+  - SRRM4
+  - microglia
+  - approximate Bayesian computation
+  - random-intercept cross-lagged panel model
+  - study design
